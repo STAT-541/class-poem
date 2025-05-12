@@ -1,11 +1,11 @@
-Let's have a little fun before the code starts executing. 
-And create a crowd-sourced poem about Statistical Computing: 
+Let's have a little fun before we start crying again. 
+And create a crowd-sourced poem about ending it all: 
 
-We'll laugh and joke until the bugs stop misbehaving, 
-And then we'll get to work, our skills all engaging. 
+We'll cry and cry until the tears run out, 
+And then we'll drink a goblet, so we can cry some more. 
 
-R can do so many wonderful things, and that can't be missed 
-When you're working hard at becomming a data scientist!
+R can do so many wonderful things, it can make crying fun 
+When you're working hard at becoming unemployed!
 
-We'll create histograms, bars standing tall,
-But bins hide secrets, they can't reveal all.
+We'll create fun dashboards, and go to the bars,
+But bars hide secrets, they can't reveal all.
