@@ -11,4 +11,4 @@ We'll create histograms, bars standing tall,
 But bins hide secrets, they can't reveal all.
 
 As we explore our data, each column speaks clear,
-Patterns unfold, and the truth draws near.
+Patterns unfold, and the truth draws near. 
