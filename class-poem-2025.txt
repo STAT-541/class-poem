@@ -1,11 +1,15 @@
 Let's have a little fun before the code starts executing. 
-And create a crowd-sourced poem about Statistical Computing: 
+We will eat brownies that Rachel brings to class!
 
-We'll laugh and joke until the bugs stop misbehaving, 
-And then we'll get to work, our skills all engaging. 
+We'll pretend our code works until the bugs stop misbehaving, 
+And then we'll get to work, and start screaming. 
 
 R can do so many wonderful things, and that can't be missed 
-When you're working hard at becomming a data scientist!
+Except when I'm trying to them it for some reason
+But it doesn't matter anyway because tis the season
+For unemployment 
 
-We'll create histograms, bars standing tall,
-But bins hide secrets, they can't reveal all.
+We will pretend jobs don't exist
+Who cares, we need to work on our thesis
+
+R!!!!
