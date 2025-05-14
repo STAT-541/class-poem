@@ -9,3 +9,6 @@ When you're working hard at becomming a data scientist!
 
 We'll create histograms, bars standing tall,
 But bins hide secrets, they can't reveal all.
+
+We will debug, clean, and comment because of our grit,
+To avoid losing progress, periodicially commit.
